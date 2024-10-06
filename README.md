@@ -21,8 +21,8 @@ To run this application locally, you need to have Python installed. Follow these
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis-app.git
-   cd sentiment-analysis-app
+   git clone https://github.com/Warishayat/Sentiment-Analysis.git
+   cd Sentiment-Analysis
    ```
 
 2. Install the required libraries:
